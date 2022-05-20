@@ -32,7 +32,7 @@ msgstr "AMP Contributor Summit 2019 Applications Now Open"
 
 #: /views/partials/footer.j2:43
 msgid "AMP Framework"
-msgstr "AMP Framework"
+msgstr ""
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
 msgid "AMP HTML Specification"
