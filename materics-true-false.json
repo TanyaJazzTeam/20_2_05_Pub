@@ -8,13 +8,13 @@
 						{
 							"name": "Belarus",
 							"capital": "Minsk",
+							"test": "qwerty",
 							"population": "9.5 million",
 							"bool": false
 						},
 						{
 							"name": "Russia",
 							"capital": "Moscow",
-							"test": "qwerty",
 							"population": "144.5 milliom",
 							"bool": true
 
