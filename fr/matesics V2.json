@@ -3,10 +3,13 @@
     {
       "materic": "L'Europe ",
       "country": "Biélorussie",
+      "population": "9.5 million",
       "CityCapital": "Minsk"
     },
     {
+      "materic": "Asia",
       "country": "Chine",
+      "population": "1.386 billion",
       "CityCapital": "Pékin"
     },
     {
